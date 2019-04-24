@@ -1,0 +1,3 @@
+rootProject.name = 'hera_2649'
+
+include ':app'
